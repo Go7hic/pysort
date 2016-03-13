@@ -1,0 +1,1581 @@
+[{
+  "catId": 11,
+  "catName": "电脑硬件/显示器/电脑周边",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "电脑硬件/显示器/电脑周边",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 14,
+  "catName": "数码相机/单反相机/摄像机",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "数码相机/单反相机/摄像机",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 16,
+  "catName": "女装/女士精品",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "女装/女士精品",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 20,
+  "catName": "电玩/配件/游戏/攻略",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "电玩/配件/游戏/攻略",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 21,
+  "catName": "居家日用",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "居家日用",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 23,
+  "catName": "古董/邮币/字画/收藏",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "古董/邮币/字画/收藏",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 25,
+  "catName": "玩具/童车/益智/积木/模型",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "玩具/童车/益智/积木/模型",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 26,
+  "catName": "汽车/用品/配件/改装",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "汽车/用品/配件/改装",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 27,
+  "catName": "家装主材",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "家装主材",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 28,
+  "catName": "ZIPPO/瑞士军刀/眼镜",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "ZIPPO/瑞士军刀/眼镜",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 29,
+  "catName": "宠物/宠物食品及用品",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "宠物/宠物食品及用品",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 30,
+  "catName": "男装",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "男装",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 33,
+  "catName": "书籍/杂志/报纸",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "书籍/杂志/报纸",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 34,
+  "catName": "音乐/影视/明星/音像",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "音乐/影视/明星/音像",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 35,
+  "catName": "奶粉/辅食/营养品/零食",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "奶粉/辅食/营养品/零食",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 40,
+  "catName": "腾讯QQ专区",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "腾讯QQ专区",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 98,
+  "catName": "包装",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "包装",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 99,
+  "catName": "网络游戏点卡",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "网络游戏点卡",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 1101,
+  "catName": "笔记本电脑",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "笔记本电脑",
+  "isLeaf": true,
+  "level": 2,
+  "priceLowerBound": 0.662228,
+  "priceUpperBound": 0.993342
+}, {
+  "catId": 1201,
+  "catName": "MP3/MP4/iPod/录音笔",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "MP3/MP4/iPod/录音笔",
+  "isLeaf": true,
+  "level": 2,
+  "priceLowerBound": 0.966584,
+  "priceUpperBound": 1.4498761
+}, {
+  "catId": 1512,
+  "catName": "手机",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "手机",
+  "isLeaf": true,
+  "level": 2,
+  "priceLowerBound": 0.364634,
+  "priceUpperBound": 0.54695106
+}, {
+  "catId": 1625,
+  "catName": "女士内衣/男士内衣/家居服",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "女士内衣/男士内衣/家居服",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 1801,
+  "catName": "美容护肤/美体/精油",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "美容护肤/美体/精油",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 2813,
+  "catName": "成人用品/情趣用品",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "成人用品/情趣用品",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50002766,
+  "catName": "零食/坚果/特产",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "零食/坚果/特产",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50002768,
+  "catName": "个人护理/保健/按摩器材",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "个人护理/保健/按摩器材",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50004958,
+  "catName": "移动/联通/电信充值中心",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "移动/联通/电信充值中心",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50006842,
+  "catName": "箱包皮具/热销女包/男包",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "箱包皮具/热销女包/男包",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50006843,
+  "catName": "女鞋",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "女鞋",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50007216,
+  "catName": "鲜花速递/花卉仿真/绿植园艺",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "鲜花速递/花卉仿真/绿植园艺",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50007218,
+  "catName": "办公设备/耗材/相关服务",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "办公设备/耗材/相关服务",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50008075,
+  "catName": "餐饮美食",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "餐饮美食",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50008090,
+  "catName": "3C数码配件",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "3C数码配件",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50008141,
+  "catName": "酒类",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "酒类",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50008163,
+  "catName": "床上用品",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "床上用品",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50008164,
+  "catName": "住宅家具",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "住宅家具",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50008165,
+  "catName": "童装/婴儿装/亲子装",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "童装/婴儿装/亲子装",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50008907,
+  "catName": "手机号码/套餐/增值业务",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "手机号码/套餐/增值业务",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50010404,
+  "catName": "服饰配件/皮带/帽子/围巾",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "服饰配件/皮带/帽子/围巾",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50010728,
+  "catName": "运动/瑜伽/健身/球迷用品",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "运动/瑜伽/健身/球迷用品",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50010788,
+  "catName": "彩妆/香水/美妆工具",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "彩妆/香水/美妆工具",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50011397,
+  "catName": "珠宝/钻石/翡翠/黄金",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "珠宝/钻石/翡翠/黄金",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50011665,
+  "catName": "网游装备/游戏币/帐号/代练",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "网游装备/游戏币/帐号/代练",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50011699,
+  "catName": "运动服/休闲服装",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "运动服/休闲服装",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50011740,
+  "catName": "流行男鞋",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "流行男鞋",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50011949,
+  "catName": "特价酒店/特色客栈/公寓旅馆",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "特价酒店/特色客栈/公寓旅馆",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50011972,
+  "catName": "影音电器",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "影音电器",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50012029,
+  "catName": "运动鞋new",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "运动鞋new",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50012082,
+  "catName": "厨房电器",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "厨房电器",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50012100,
+  "catName": "生活电器",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "生活电器",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50012164,
+  "catName": "闪存卡/U盘/存储/移动硬盘",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "闪存卡/U盘/存储/移动硬盘",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50013864,
+  "catName": "饰品/流行首饰/时尚饰品新",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "饰品/流行首饰/时尚饰品新",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50013886,
+  "catName": "户外/登山/野营/旅行用品",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "户外/登山/野营/旅行用品",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50014442,
+  "catName": "交通票",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "交通票",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50014811,
+  "catName": "网店/网络服务/软件",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "网店/网络服务/软件",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50014812,
+  "catName": "尿片/洗护/喂哺/推车床",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "尿片/洗护/喂哺/推车床",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50014927,
+  "catName": "教育培训",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "教育培训",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50016348,
+  "catName": "家庭/个人清洁工具",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "家庭/个人清洁工具",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50016349,
+  "catName": "厨房/烹饪用具",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "厨房/烹饪用具",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50016350,
+  "catName": "保险（汇金收费）",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "保险（汇金收费）",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50016422,
+  "catName": "粮油米面/南北干货/调味品",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "粮油米面/南北干货/调味品",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50016891,
+  "catName": "游戏物品交易平台",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "游戏物品交易平台",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50017300,
+  "catName": "乐器/吉他/钢琴/配件",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "乐器/吉他/钢琴/配件",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50017652,
+  "catName": "TP服务商大类",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "TP服务商大类",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50018004,
+  "catName": "电子词典/电纸书/文化用品",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "电子词典/电纸书/文化用品",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50018222,
+  "catName": "DIY电脑",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "DIY电脑",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50018252,
+  "catName": "淘商号",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "淘商号",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50018264,
+  "catName": "网络设备/网络相关",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "网络设备/网络相关",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50019095,
+  "catName": "消费卡",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "消费卡",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50019379,
+  "catName": "合作商家",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "合作商家",
+  "isLeaf": true,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50019780,
+  "catName": "平板电脑/MID",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "平板电脑/MID",
+  "isLeaf": true,
+  "level": 2,
+  "priceLowerBound": 0.51015,
+  "priceUpperBound": 0.765225
+}, {
+  "catId": 50020275,
+  "catName": "传统滋补营养品",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "传统滋补营养品",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50020332,
+  "catName": "基础建材",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "基础建材",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50020485,
+  "catName": "五金/工具",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "五金/工具",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50020579,
+  "catName": "电子/电工",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "电子/电工",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50020611,
+  "catName": "商业/办公家具",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "商业/办公家具",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50020808,
+  "catName": "家居饰品",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "家居饰品",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50020857,
+  "catName": "特色手工艺",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "特色手工艺",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50022517,
+  "catName": "孕妇装/孕产妇用品/营养",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "孕妇装/孕产妇用品/营养",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50022703,
+  "catName": "大家电",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "大家电",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50023282,
+  "catName": "美发护发/假发",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "美发护发/假发",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50023575,
+  "catName": "房产/租房/新房/二手房/委托服务",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "房产/租房/新房/二手房/委托服务",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50023717,
+  "catName": "OTC药品/医疗器械/计生用品",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "OTC药品/医疗器械/计生用品",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50023722,
+  "catName": "隐形眼镜/护理液",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "隐形眼镜/护理液",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50023724,
+  "catName": "其他",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "其他",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50023804,
+  "catName": "装修设计/施工/监理",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "装修设计/施工/监理",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50023878,
+  "catName": "自用闲置转让",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "自用闲置转让",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50023904,
+  "catName": "国货精品数码",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "国货精品数码",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50024099,
+  "catName": "电子元器件市场",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "电子元器件市场",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50024186,
+  "catName": "保险",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "保险",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50024451,
+  "catName": "外卖/外送/订餐(请勿发布)",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "外卖/外送/订餐(请勿发布)",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50024612,
+  "catName": "外卖/外送/订餐服务（垂直市场）",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "外卖/外送/订餐服务（垂直市场）",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50024971,
+  "catName": "新车/二手车",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "新车/二手车",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50025004,
+  "catName": "个性定制/设计服务/DIY",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "个性定制/设计服务/DIY",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50025110,
+  "catName": "电影/演出/体育赛事",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "电影/演出/体育赛事",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50025111,
+  "catName": "本地化生活服务",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "本地化生活服务",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50025618,
+  "catName": "理财",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "理财",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50025705,
+  "catName": "洗护清洁剂/卫生巾/纸/香薰",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "洗护清洁剂/卫生巾/纸/香薰",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50025707,
+  "catName": "度假线路/签证送关/旅游服务",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "度假线路/签证送关/旅游服务",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50025968,
+  "catName": "司法拍卖拍品专用",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "司法拍卖拍品专用",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50026316,
+  "catName": "咖啡/麦片/冲饮",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "咖啡/麦片/冲饮",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50026523,
+  "catName": "休闲娱乐",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "休闲娱乐",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50026535,
+  "catName": "医疗及健康服务",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "医疗及健康服务",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50026555,
+  "catName": "购物提货券",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "购物提货券",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50026800,
+  "catName": "保健食品/膳食营养补充食品",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "保健食品/膳食营养补充食品",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50050359,
+  "catName": "水产肉类/新鲜蔬果/熟食",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "水产肉类/新鲜蔬果/熟食",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50050471,
+  "catName": "婚庆/摄影/摄像服务",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "婚庆/摄影/摄像服务",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50074001,
+  "catName": "摩托车/装备/配件",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "摩托车/装备/配件",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50158001,
+  "catName": "网络店铺代金/优惠券",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "网络店铺代金/优惠券",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50230002,
+  "catName": "服务商品",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "服务商品",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50454031,
+  "catName": "景点门票/实景演出/主题乐园",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "景点门票/实景演出/主题乐园",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50468001,
+  "catName": "手表",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "手表",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50510002,
+  "catName": "运动包/户外包/配件",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "运动包/户外包/配件",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50602001,
+  "catName": "淘宝同城(测试，勿发商品)",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "淘宝同城(测试，勿发商品)",
+  "isLeaf": true,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50690010,
+  "catName": "无线生活服务",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "无线生活服务",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 50734010,
+  "catName": "资产",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "资产",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 120886001,
+  "catName": "公益",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "公益",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 120894001,
+  "catName": "淘女郎",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "淘女郎",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 120950001,
+  "catName": "保险分销",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "保险分销",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 120950002,
+  "catName": "天猫点券",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "天猫点券",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 121266001,
+  "catName": "众筹",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "众筹",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 121380001,
+  "catName": "国内机票/国际机票/增值服务",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "国内机票/国际机票/增值服务",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 121536003,
+  "catName": "数字娱乐",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "数字娱乐",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 121536007,
+  "catName": "全球购代购市场",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "全球购代购市场",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 121938001,
+  "catName": "淘点点预定点菜",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "淘点点预定点菜",
+  "isLeaf": true,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 121940001,
+  "catName": "淘点点现金券",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "淘点点现金券",
+  "isLeaf": true,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 122650005,
+  "catName": "童鞋/婴儿鞋/亲子鞋",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "童鞋/婴儿鞋/亲子鞋",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 122684003,
+  "catName": "自行车/骑行装备/零配件",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "自行车/骑行装备/零配件",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 122718004,
+  "catName": "家庭保健",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "家庭保健",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 122852001,
+  "catName": "居家布艺",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "居家布艺",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 122918002,
+  "catName": "无敌卡(新)",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "无敌卡(新)",
+  "isLeaf": true,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 122928002,
+  "catName": "收纳整理",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "收纳整理",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 122950001,
+  "catName": "节庆用品/礼品",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "节庆用品/礼品",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 122952001,
+  "catName": "餐饮具",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "餐饮具",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 122966004,
+  "catName": "处方药",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "处方药",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 123500005,
+  "catName": "资产（政府类专用）",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "资产（政府类专用）",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 123536002,
+  "catName": "阿里通信专属类目",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "阿里通信专属类目",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 123690003,
+  "catName": "精制中药材",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "精制中药材",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 124024001,
+  "catName": "农业生产资料（农村淘宝专用）",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "农业生产资料（农村淘宝专用）",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 124044001,
+  "catName": "品牌台机/品牌一体机/服务器",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "品牌台机/品牌一体机/服务器",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 124050001,
+  "catName": "全屋定制",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "全屋定制",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 124110010,
+  "catName": "淘宝海外虚拟订单",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "淘宝海外虚拟订单",
+  "isLeaf": true,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 124116010,
+  "catName": "零售O2O",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "零售O2O",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 124242008,
+  "catName": "智能设备",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "智能设备",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 124354002,
+  "catName": "电动车/配件/交通工具",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "电动车/配件/交通工具",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 124458005,
+  "catName": "茶",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "茶",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 124466001,
+  "catName": "农用物资",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "农用物资",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 124468001,
+  "catName": "农机/农具/农膜",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "农机/农具/农膜",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 124470001,
+  "catName": "畜牧/养殖物资",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "畜牧/养殖物资",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 124470006,
+  "catName": "整车(经销商)",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "整车(经销商)",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 124484008,
+  "catName": "模玩/动漫/周边/cos/桌游",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "模玩/动漫/周边/cos/桌游",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 124568010,
+  "catName": "室内设计师",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "室内设计师",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 124698018,
+  "catName": "装修服务",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "装修服务",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 124750013,
+  "catName": "俪人购(俪人购专用)",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "俪人购(俪人购专用)",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 124852003,
+  "catName": "二手数码",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "二手数码",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 124868003,
+  "catName": "盒马生鲜",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "盒马生鲜",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 125022006,
+  "catName": "全球购官网直购（专用）",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "全球购官网直购（专用）",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}, {
+  "catId": 125102006,
+  "catName": "到家业务",
+  "parentCatId": 0,
+  "parentCatName": "root",
+  "catFullName": "到家业务",
+  "isLeaf": false,
+  "level": 2,
+  "priceLowerBound": 1.0,
+  "priceUpperBound": 1.5
+}]
