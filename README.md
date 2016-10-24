@@ -1,2 +1,5 @@
 # pysort
-汉字首字按拼音母排序 [DEMO](http://blog.yongyuan.us/pysort/demo/demo.html)
+汉字首字按拼音母排序
+
+#### DEMO
+[DEMO](http://dyygtfx.github.io/pysort/demo/demo.html)
